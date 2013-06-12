@@ -1,0 +1,16 @@
+{
+  "name": "syntax-highlight-test",
+  "version": "0.0.0",
+  "description": "Tests for syntax highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Sergey Klimov <sergey.v.klimov@gmail.com> (http://darvin.github.com/)",
+  "license": "BSD",
+  "dependencies": {
+    "request": "~2.21.0",
+    "cheerio": "~0.12.0"
+  }
+}
